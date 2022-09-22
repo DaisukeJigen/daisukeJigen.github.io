@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.9adf410fe58599e99c22e76741894827.js"
+  "/precache-manifest.6f0f639f74e4579588afd2090d29c94d.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "wanikanjigation"});
