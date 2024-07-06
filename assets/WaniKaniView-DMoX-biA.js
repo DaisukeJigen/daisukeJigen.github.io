@@ -1,0 +1,2 @@
+import{d as o,o as n,m as t,h as a,i as r}from"./index-mQKd4F6d.js";const p=o({__name:"WaniKaniView",setup(s){return n(()=>{}),(c,_)=>{const e=a("RouterView");return r(),t(e)}}});export{p as default};
+//# sourceMappingURL=WaniKaniView-DMoX-biA.js.map
